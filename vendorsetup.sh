@@ -1,0 +1,3 @@
+add_lunch_combo hexagon_bacon-user
+add_lunch_combo hexagon_bacon-userdebug
+add_lunch_combo hexagon_bacon-eng
